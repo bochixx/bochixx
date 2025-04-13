@@ -113,3 +113,9 @@ Ex-Fiserv Technology Program Analyst | Bug Bounty Hunter | Blockchain & Smart Co
 
 ---
 
+### 🔎 Some stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bochixx&layout=compact&langs_count=8&theme=tokyonight)
+
+![Visitors](https://komarev.com/ghpvc/?username=bochixx&color=blue&style=flat&label=Visitors)
+
