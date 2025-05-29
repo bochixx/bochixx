@@ -93,9 +93,10 @@ Ex-Fiserv Technology Program Analyst | Bug Bounty Hunter | Blockchain & Smart Co
 
 ### 📦 Noteworthy Projects
 
-- 🧠 **[Smart Contract Attack Vectors (LinkedIn Series)](https://www.linkedin.com/in/yash-nimbalkar)** – Real-world exploits explained in simple words
-- 🧰 **[Gesture Identification using Arduino & Tiny-ML](https://github.com/bochixx/projects/tree/main/Gesture%20Identification%20Using%20Arduino%20%26%20TinyML)** – BLE-connected ML model and Android App for gesture-identification & classification of forehand vs backhand strokes
-- 🔐 **[Smart Contract Audits](https://github.com/bochixx/contract-audit-reports)** – Collection of smart contract audit reports
+- **[Smart Contract Attack Vectors (LinkedIn Series)](https://www.linkedin.com/in/yash-nimbalkar)** – Real-world exploits explained in simple words
+- **[Smart Contract Audits](https://github.com/bochixx/contract-audit-reports)** – Collection of smart contract audit reports
+- **[Gesture Identification using Arduino & Tiny-ML](https://github.com/bochixx/projects/tree/main/Gesture%20Identification%20Using%20Arduino%20%26%20TinyML)** – BLE-connected ML model and Android App for gesture-identification & classification of forehand vs backhand strokes
+- **[Smart Access Control: IoT + ML](https://github.com/bochixx/projects/tree/main/Smart%20Access%20Control)** – A Report presenting the possibility of implementing an access control system while leveraging IoT Devices and Machine Learning
 
 ---
 
